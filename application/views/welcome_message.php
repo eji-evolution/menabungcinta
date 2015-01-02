@@ -16,7 +16,7 @@
 	  display:block;
 	}
 
-	.type {
+	.type { 
 	  width:400px;
 	  height:400px;
 	  margin:100px auto;
