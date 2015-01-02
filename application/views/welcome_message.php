@@ -7,7 +7,7 @@
 	<style type="text/css">
 
 	body {
-	  background: #F94F6A;
+	  background: #F94F6A!important;
 	  -webkit-font-smoothing: antialiased !important;
 	  webkit-text-stroke: 1px rgba(0,0,0,0.1);
 	}

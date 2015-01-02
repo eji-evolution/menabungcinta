@@ -4163,3 +4163,93 @@ DEBUG - 2015-01-02 16:45:27 --> Controller Class Initialized
 DEBUG - 2015-01-02 16:45:27 --> File loaded: application/views/welcome_message.php
 DEBUG - 2015-01-02 16:45:27 --> Final output sent to browser
 DEBUG - 2015-01-02 16:45:27 --> Total execution time: 0.4030
+DEBUG - 2015-01-02 17:08:34 --> Config Class Initialized
+DEBUG - 2015-01-02 17:08:34 --> Hooks Class Initialized
+DEBUG - 2015-01-02 17:08:34 --> Utf8 Class Initialized
+DEBUG - 2015-01-02 17:08:34 --> UTF-8 Support Enabled
+DEBUG - 2015-01-02 17:08:35 --> URI Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Router Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> No URI present. Default controller set.
+DEBUG - 2015-01-02 17:08:35 --> Output Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Security Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Input Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> XSS Filtering completed
+DEBUG - 2015-01-02 17:08:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-01-02 17:08:35 --> Language Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Loader Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Helper loaded: url_helper
+DEBUG - 2015-01-02 17:08:35 --> Helper loaded: file_helper
+DEBUG - 2015-01-02 17:08:35 --> Helper loaded: form_helper
+DEBUG - 2015-01-02 17:08:35 --> Helper loaded: custom_helper
+DEBUG - 2015-01-02 17:08:35 --> Database Driver Class Initialized
+ERROR - 2015-01-02 17:08:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\code\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-01-02 17:08:35 --> Session Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Helper loaded: string_helper
+DEBUG - 2015-01-02 17:08:35 --> Session routines successfully run
+DEBUG - 2015-01-02 17:08:35 --> Email Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Pagination Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Encrypt Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> Controller Class Initialized
+DEBUG - 2015-01-02 17:08:35 --> File loaded: application/views/welcome_message.php
+DEBUG - 2015-01-02 17:08:36 --> Final output sent to browser
+DEBUG - 2015-01-02 17:08:36 --> Total execution time: 1.2900
+DEBUG - 2015-01-02 17:10:24 --> Config Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Hooks Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Utf8 Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> UTF-8 Support Enabled
+DEBUG - 2015-01-02 17:10:24 --> URI Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Router Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> No URI present. Default controller set.
+DEBUG - 2015-01-02 17:10:24 --> Output Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Security Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Input Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> XSS Filtering completed
+DEBUG - 2015-01-02 17:10:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-01-02 17:10:24 --> Language Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Loader Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Helper loaded: url_helper
+DEBUG - 2015-01-02 17:10:24 --> Helper loaded: file_helper
+DEBUG - 2015-01-02 17:10:24 --> Helper loaded: form_helper
+DEBUG - 2015-01-02 17:10:24 --> Helper loaded: custom_helper
+DEBUG - 2015-01-02 17:10:24 --> Database Driver Class Initialized
+ERROR - 2015-01-02 17:10:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\code\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-01-02 17:10:24 --> Session Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Helper loaded: string_helper
+DEBUG - 2015-01-02 17:10:24 --> Session routines successfully run
+DEBUG - 2015-01-02 17:10:24 --> Email Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Pagination Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Encrypt Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> Controller Class Initialized
+DEBUG - 2015-01-02 17:10:24 --> File loaded: application/views/welcome_message.php
+DEBUG - 2015-01-02 17:10:24 --> Final output sent to browser
+DEBUG - 2015-01-02 17:10:24 --> Total execution time: 0.5040
+DEBUG - 2015-01-02 17:12:22 --> Config Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> Hooks Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> Utf8 Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> UTF-8 Support Enabled
+DEBUG - 2015-01-02 17:12:22 --> URI Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> Router Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> No URI present. Default controller set.
+DEBUG - 2015-01-02 17:12:22 --> Output Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> Security Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> Input Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> XSS Filtering completed
+DEBUG - 2015-01-02 17:12:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-01-02 17:12:22 --> Language Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> Loader Class Initialized
+DEBUG - 2015-01-02 17:12:22 --> Helper loaded: url_helper
+DEBUG - 2015-01-02 17:12:22 --> Helper loaded: file_helper
+DEBUG - 2015-01-02 17:12:22 --> Helper loaded: form_helper
+DEBUG - 2015-01-02 17:12:22 --> Helper loaded: custom_helper
+DEBUG - 2015-01-02 17:12:23 --> Database Driver Class Initialized
+ERROR - 2015-01-02 17:12:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\code\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-01-02 17:12:23 --> Session Class Initialized
+DEBUG - 2015-01-02 17:12:23 --> Helper loaded: string_helper
+DEBUG - 2015-01-02 17:12:23 --> Session routines successfully run
+DEBUG - 2015-01-02 17:12:23 --> Email Class Initialized
+DEBUG - 2015-01-02 17:12:23 --> Pagination Class Initialized
+DEBUG - 2015-01-02 17:12:23 --> Encrypt Class Initialized
+DEBUG - 2015-01-02 17:12:23 --> Controller Class Initialized
+DEBUG - 2015-01-02 17:12:23 --> File loaded: application/views/welcome_message.php
+DEBUG - 2015-01-02 17:12:23 --> Final output sent to browser
+DEBUG - 2015-01-02 17:12:23 --> Total execution time: 0.4220
